@@ -29,6 +29,14 @@ dependencies:
   firebase_auth: ^0.20.0+1
   firebase_core: ^0.7.0
   firebase_storage: ^7.0.0
+  image_picker: ^0.6.7+21
+  http: ^0.12.2
+  dio: ^3.0.10
+  image_gallery_saver: ^1.2.2
+  gallery_saver: ^2.0.2
+  random_string: ^2.1.0
+  permission_handler: ^4.2.0+hotfix.3
+  url_launcher_web: ^0.1.1+1
 
 
 
@@ -81,3 +89,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
